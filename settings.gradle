@@ -1,0 +1,6 @@
+rootProject.name = 'awaitility-parent'
+include ':awaitility'
+include ':awaitility-scala'
+include ':awaitility-groovy'
+include ':awaitility-java8-test'
+
